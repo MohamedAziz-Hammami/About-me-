@@ -36,6 +36,9 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ðŸ’
 [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 
 ---
 

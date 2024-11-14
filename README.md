@@ -7,7 +7,7 @@
 </p>
 
 <!-- Avatar Section -->
-<img title="My Avatar" align="left" src="assets/images/aziz.png" width="300px" alt="Avatar Image" >
+<img title="My Avatar" align="left" src="assets/images/avatar.webp" width="300px" alt="Avatar Image" >
 
 <!-- About Me -->
 ### About Me

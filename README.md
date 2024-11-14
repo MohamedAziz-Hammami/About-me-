@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, I'm Mohamed Aziz Hammami</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Mohamed Aziz Hammami</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,7 +7,7 @@
 </p>
 
 <!-- Avatar Section -->
-<img title="My Avatar" align="left" src="myavatar.webp" width="300px" alt="Avatar Image" >
+<img title="My Avatar" align="left" src="myavatar.webp" width="300px" alt="Avatar Image">
 
 <!-- About Me -->
 ### About Me
@@ -32,6 +32,10 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ðŸ’
 [![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)](#)
+[![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82)](#)
+[![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)](#)
 
 ---
 
@@ -53,9 +57,9 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ðŸ’
 <div align="center">
   | Choose your language | Flags |
   | ------------------- | ----- |
-  | [EN-US](./README.md) | <img width="5%" src="assets/images/flags/USA.png" alt="USA Flag" /> |
-  | [FR-FRA](./README-FR-FRA.md) | <img width="5%" src="assets/images/flags/France.png" alt="France Flag" /> |
-  | [AR-SA](./README-AR-SA.md) | <img width="5%" src="assets/images/flags/saudi_arabia.jpg" alt="Saudi Arabia Flag" /> |
+  | [EN](./README.md) | <img width="5%" src="assets/images/flags/USA.png" alt="USA Flag" /> |
+  | [FR](./README-FR.md) | <img width="5%" src="assets/images/flags/France.png" alt="France Flag" /> |
+  | [AR](./README-AR.md) | <img width="5%" src="assets/images/flags/saudi_arabia.jpg" alt="Saudi Arabia Flag" /> |
 </div>
 
 ---
@@ -63,5 +67,5 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ðŸ’
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAzizHammami&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/MohamedAzizHammami/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAzizHammami&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/MohamedAzizHammami/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 
-Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAzizHammami)
+Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAzizHammami)  
 Last Edited on: 14/11/2024

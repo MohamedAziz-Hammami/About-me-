@@ -50,9 +50,16 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia �
 
 ---
 
+<!-- Additional Stats Section -->
+## <b>Other Stats</b> 🏆
+
+- **Repositories:** ![Total Repositories](https://img.shields.io/badge/Repos-50+-blue)
+- **Contributions this Year:** ![Contributions](https://img.shields.io/badge/Contributions-900+-green)
+- **Followers:** ![Followers](https://img.shields.io/badge/Followers-1000+-purple)
+- **Following:** ![Following](https://img.shields.io/badge/Following-300+-orange)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAzizHammami)  
 Last Edited on: 14/11/2024

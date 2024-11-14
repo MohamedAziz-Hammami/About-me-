@@ -53,7 +53,14 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia �
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<!-- Flagged Languages -->
+<div align="center">
+  | Choose your language | Flags |
+  | ------------------- | ----- |
+  | [EN](./README.md) | <img width="5%" src="assets/images/flags/USA.png" alt="USA Flag" /> |
+  | [FR](./README-FR.md) | <img width="5%" src="assets/images/flags/France.png" alt="France Flag" /> |
+  | [AR](./README-AR.md) | <img width="5%" src="assets/images/flags/saudi_arabia.jpg" alt="Saudi Arabia Flag" /> |
+</div>
 
 ---
 

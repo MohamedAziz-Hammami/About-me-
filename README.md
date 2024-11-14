@@ -64,8 +64,7 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ðŸ’
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAzizHammami&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/MohamedAzizHammami/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAzizHammami&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/MohamedAzizHammami/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
+
 
 Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAzizHammami)  
 Last Edited on: 14/11/2024

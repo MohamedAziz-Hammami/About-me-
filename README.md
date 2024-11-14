@@ -53,19 +53,6 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia �
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Flagged Languages -->
-<div align="center">
-  | Choose your language | Flags |
-  | ------------------- | ----- |
-  | [EN](./README.md) | <img width="5%" src="assets/images/flags/USA.png" alt="USA Flag" /> |
-  | [FR](./README-FR.md) | <img width="5%" src="assets/images/flags/France.png" alt="France Flag" /> |
-  | [AR](./README-AR.md) | <img width="5%" src="assets/images/flags/saudi_arabia.jpg" alt="Saudi Arabia Flag" /> |
-</div>
-
----
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAzizHammami&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/MohamedAzizHammami/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAzizHammami&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/MohamedAzizHammami/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 
 Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAzizHammami)  
 Last Edited on: 14/11/2024

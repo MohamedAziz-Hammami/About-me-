@@ -47,7 +47,7 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ðŸ’
 
 <img align="right" width="200px" height="200px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="coding animation"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizHammami&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizHammami&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAzizHammami&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAzizHammami&theme=algolia)
 

@@ -43,7 +43,8 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ğŸ’
 ---
 
 <!-- Github Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- Github Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <img align="right" width="200px" height="200px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="coding animation"/>
 
@@ -52,6 +53,7 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ğŸ’
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAzizHammami&theme=algolia)
 
 ---
+
 
 <!-- Additional Stats Section -->
 ## <b>Other Stats</b> ğŸ†

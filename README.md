@@ -43,17 +43,15 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia üí
 ---
 
 <!-- Github Stats Section -->
-<!-- Github Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <img align="right" width="200px" height="200px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="coding animation"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizHammami&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAzizHammami&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAzizHammami&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAziz-Hammami&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAziz-Hammami&theme=algolia)
 
 ---
-
 
 <!-- Additional Stats Section -->
 ## <b>Other Stats</b> üèÜ
@@ -66,5 +64,5 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia üí
 ### ‚úçÔ∏è Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAzizHammami)  
+Credit: [Mohamed Aziz Hammami](https://github.com/MohamedAziz-Hammami)  
 Last Edited on: 14/11/2024

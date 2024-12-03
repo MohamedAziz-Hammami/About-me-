@@ -38,7 +38,8 @@ Here are the main technologies I work with:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## <!-- Github Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ### My Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAziz-Hammami&show_icons=true&layout=compact&langs_count=10&theme=radical)

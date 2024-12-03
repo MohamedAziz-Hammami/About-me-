@@ -51,9 +51,7 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer based in Tunisia ğŸ’
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAziz-Hammami&theme=algolia)
 
----
 
-<!-- Additional Stats Section -->
 ## <b>Other Stats</b> ğŸ†
 
 - **Repositories:** ![Total Repositories](https://img.shields.io/badge/Repos-50+-blue)

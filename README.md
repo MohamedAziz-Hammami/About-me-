@@ -49,15 +49,15 @@ I'm 21 years old, and I am deeply interested in frontend and backend development
 ---
 
 <!-- Github Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p align="right">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
+<p align="center">
   <img width="200px" height="200px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="coding animation"/>
 </p>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAziz-Hammami&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAziz-Hammami&theme=algolia)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAziz-Hammami&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAziz-Hammami&theme=algolia" alt="GitHub Streak">
 </p>
 
 ---

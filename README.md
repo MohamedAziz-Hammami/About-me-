@@ -20,24 +20,6 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer from Tunisia 💻. A
 
 ---
 
-## 📊 Dashboard
-
-### ⏳ Work & Study Hours
-
-- **Total Hours Worked This Week:** 
-  ![Progress](https://progress-bar.dev/40/?scale=100&title=Work+Hours+This+Week&color=yellow&width=200)
-- **Total Study Hours:** 
-  ![Progress](https://progress-bar.dev/80/?scale=100&title=Study+Hours&color=blue&width=200)
-
-### 🧑‍💻 Coding Hours
-
-- **Total Coding Hours This Week:** 
-  ![Progress](https://progress-bar.dev/60/?scale=100&title=Coding+Hours+This+Week&color=red&width=200)
-- **Total Coding Hours This Month:** 
-  ![Progress](https://progress-bar.dev/70/?scale=100&title=Monthly+Coding&color=green&width=200)
-
----
-
 ## 🛠️ Technologies & Skills
 
 Here are the main technologies I work with:
@@ -56,14 +38,16 @@ Here are the main technologies I work with:
 
 ---
 
-## 🏅 GitHub Stats & Streaks
+## <!-- Github Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+### My Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAziz-Hammami&show_icons=true&layout=compact&langs_count=10&theme=radical)
 
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&count_private=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&theme=radical)
 
 ### GitHub Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAziz-Hammami&theme=algolia)
 
 ---
@@ -74,12 +58,6 @@ Here are the main technologies I work with:
 - **Contributions this Year:** ![Contributions](https://img.shields.io/badge/Contributions-900+-green)
 - **Followers:** ![Followers](https://img.shields.io/badge/Followers-1000+-purple)
 - **Following:** ![Following](https://img.shields.io/badge/Following-300+-orange)
-
----
-
-### 🏆 Contributions Heatmap
-
-![GitHub Contribution Graph](https://github-contribution-graph-generator.vercel.app/?username=MohamedAziz-Hammami&theme=dark)
 
 ---
 

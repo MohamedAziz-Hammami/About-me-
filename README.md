@@ -20,6 +20,24 @@ I'm Mohamed Aziz Hammami, a passionate Full Stack Developer from Tunisia 💻. A
 
 ---
 
+## 📊 Dashboard
+
+### ⏳ Work & Study Hours
+
+- **Total Hours Worked This Week:** 
+  ![Progress](https://progress-bar.dev/40/?scale=100&title=Work+Hours+This+Week&color=yellow&width=200)
+- **Total Study Hours:** 
+  ![Progress](https://progress-bar.dev/80/?scale=100&title=Study+Hours&color=blue&width=200)
+
+### 🧑‍💻 Coding Hours
+
+- **Total Coding Hours This Week:** 
+  ![Progress](https://progress-bar.dev/60/?scale=100&title=Coding+Hours+This+Week&color=red&width=200)
+- **Total Coding Hours This Month:** 
+  ![Progress](https://progress-bar.dev/70/?scale=100&title=Monthly+Coding&color=green&width=200)
+
+---
+
 ## 🛠️ Technologies & Skills
 
 Here are the main technologies I work with:
@@ -38,16 +56,14 @@ Here are the main technologies I work with:
 
 ---
 
-## <!-- Github Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-### My Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAziz-Hammami&show_icons=true&layout=compact&langs_count=10&theme=radical)
+## 🏅 GitHub Stats & Streaks
 
 ### GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAziz-Hammami&show_icons=true&count_private=true&theme=radical)
 
 ### GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAziz-Hammami&theme=algolia)
 
 ---
@@ -61,22 +77,9 @@ Here are the main technologies I work with:
 
 ---
 
-## 📊 Dashboard
+### 🏆 Contributions Heatmap
 
-### ⏳ Work & Study Hours
-
-- **Total Hours Worked This Week:** ![Weekly Work Hours](https://img.shields.io/badge/Hours-40+-yellow)
-- **Total Study Hours:** ![Total Study Hours](https://img.shields.io/badge/Study-200+-blue)
-
-### 🧑‍💻 Coding Hours
-
-- **Total Coding Hours This Week:** ![Coding Hours This Week](https://img.shields.io/badge/Coding-15+-red)
-- **Total Coding Hours This Month:** ![Coding Hours This Month](https://img.shields.io/badge/Monthly%20Coding-70+-green)
-
-### 🏅 Contributions
-
-- **PRs Opened:** ![PRs Opened](https://img.shields.io/badge/PRs-10+-purple)
-- **Issues Closed:** ![Issues Closed](https://img.shields.io/badge/Issues%20Closed-25+-blue)
+![GitHub Contribution Graph](https://github-contribution-graph-generator.vercel.app/?username=MohamedAziz-Hammami&theme=dark)
 
 ---
 

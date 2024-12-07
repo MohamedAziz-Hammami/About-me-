@@ -61,6 +61,25 @@ Here are the main technologies I work with:
 
 ---
 
+## 📊 Dashboard
+
+### ⏳ Work & Study Hours
+
+- **Total Hours Worked This Week:** ![Weekly Work Hours](https://img.shields.io/badge/Hours-40+-yellow)
+- **Total Study Hours:** ![Total Study Hours](https://img.shields.io/badge/Study-200+-blue)
+
+### 🧑‍💻 Coding Hours
+
+- **Total Coding Hours This Week:** ![Coding Hours This Week](https://img.shields.io/badge/Coding-15+-red)
+- **Total Coding Hours This Month:** ![Coding Hours This Month](https://img.shields.io/badge/Monthly%20Coding-70+-green)
+
+### 🏅 Contributions
+
+- **PRs Opened:** ![PRs Opened](https://img.shields.io/badge/PRs-10+-purple)
+- **Issues Closed:** ![Issues Closed](https://img.shields.io/badge/Issues%20Closed-25+-blue)
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
